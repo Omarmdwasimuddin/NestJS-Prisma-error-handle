@@ -45,6 +45,6 @@ export class PrismaExceptionFilter implements ExceptionFilter {
 
 #### main.ts e register:
 ```bash
-
+app.useGlobalFilters(new ZodExceptionFilter(), new PrismaExceptionFilter());
 ```
 ---
