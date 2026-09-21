@@ -1,4 +1,4 @@
-## Prisma error handle
+## Prisma error handle (prisma v7)
 
 #### `common/filters/prisma-exception.filter.ts`
 ```bash
