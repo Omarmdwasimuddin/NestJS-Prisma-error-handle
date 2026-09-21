@@ -71,3 +71,5 @@ app.useGlobalFilters(new PrismaExceptionFilter());
 ```
 ---
 
+>## OUTPUT
+><img width="1305" height="308" alt="image" src="https://github.com/user-attachments/assets/05311259-10f2-40ea-9ba6-81b0cade6f25" />
